@@ -1,4 +1,6 @@
  <h1 align="center">Hi 👋, I'm Sudhir Yadav</h1>
+ 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on Selenium 
 - 🌱 I’m currently learning Backend
@@ -22,6 +24,8 @@
   </a>
 </div>
 
+
+
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,html,github,git,postman,xd&perline=5)](https://skillicons.dev)
 
@@ -30,6 +34,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhir3456&theme=dark)
 
 
+## Support me 
+<p><a href="https://www.buymeacoffee.com/sudhir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
 <br>
 ⭐️ Thank You!
