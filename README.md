@@ -10,7 +10,7 @@
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/Sudhir3456/-Sudhir3456">
+  <a href="https://github.com/Sudhir3456">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/sudhir-kumar-yadav-62a39a249">
