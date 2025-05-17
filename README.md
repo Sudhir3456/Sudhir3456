@@ -35,7 +35,7 @@
 
 
 ## Support me 
-<p><a href="https://www.buymeacoffee.com/sudhir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+<p><a href="https://sudhir3456.github.io/sudhir-portfolio/#contact"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
 <br>
 ⭐️ Thank You!
