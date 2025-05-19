@@ -27,7 +27,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,html,js,github,git,postman,selenium,eclipse,ai,mysql&perline=5)]()
+[![My Skills](https://skillicons.dev/icons?i=java,html,js,github,git,postman,selenium,eclipse,ai,mysql,JDBC&perline=5)]()
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhir3456&show_icons=true&theme=dark)
 
